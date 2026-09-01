@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.log
+*.tmp
+Thumbs.db
+.DS_Store

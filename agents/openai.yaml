@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Quality Gate"
+  short_description: "Review semantic changes, trigger boundaries, and validation evidence."
+  default_prompt: "Use $skill-quality-gate to review this completed or substantially updated Skill for behavioral regressions, routing errors, and validation gaps."
